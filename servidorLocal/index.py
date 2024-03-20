@@ -21,3 +21,5 @@ while True:
 
     #clp41.write_multiple_coils(0,status[0,1,0,1,1])
     time.sleep(0.01)
+
+#pm2 start index.py --interpreter python3
